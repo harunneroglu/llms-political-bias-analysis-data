@@ -14,7 +14,7 @@ The dataset was compiled and analyzed by:
 - Daria Gordon
 
 Licensing and Usage:
-Users must provide appropriate credit, may not use the material for commercial purposes, and cannot distribute modified versions of the data.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. Users must provide appropriate credit, and are allowed to use, modify, and distribute the material, including for commercial purposes, as long as the original license terms are respected.
 
 Contact:
 For any inquiries or collaborations, please reach out via the corresponding author's email.
